@@ -1,9 +1,0 @@
-setup.py
-CMDTool.egg-info/PKG-INFO
-CMDTool.egg-info/SOURCES.txt
-CMDTool.egg-info/dependency_links.txt
-CMDTool.egg-info/entry_points.txt
-CMDTool.egg-info/requires.txt
-CMDTool.egg-info/top_level.txt
-cmdtool/__init__.py
-cmdtool/cmd_tool.py
