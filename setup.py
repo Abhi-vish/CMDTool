@@ -12,7 +12,7 @@ setup(
     install_requires=[
         'pyperclip'
     ],
-    author='Abhishek Vishwakarma',
+    author='Abhi-vish',
     author_email='iamabhishekvishwakarma7@gmail.com',
     description='A command-line tool for file management and copying to clipboard.',
     license='MIT',
