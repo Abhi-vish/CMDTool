@@ -1,21 +1,26 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my-cmd-tool',
-    version='1.0',
+    name='CMDTool',
+    version='0.1',
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'my-cmd-tool = my_cmd_tool.cmd_tool:main'
+            'cmdtool = cmdtool.cmd_tool:main'
         ]
     },
     install_requires=[
         'pyperclip'
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Abhishek Vishwakarma',
+    author_email='iamabhishekvishwakarma7@gmail.com',
     description='A command-line tool for file management and copying to clipboard.',
     license='MIT',
     keywords='command-line tool',
-    url='https://github.com/yourusername/my-cmd-tool'
+    url='https://github.com/Abhi-vish/CMDTool',
+    classifiers=[
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+    ],
 )
