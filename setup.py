@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'cmdhelper = cmdtool.cmd_tool:main'
+            'cmdhelpertool = CMDHelperTool.cmd_tool:main'
         ]
     },
     install_requires=[
