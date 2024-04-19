@@ -12,7 +12,7 @@ pip install CMDHelpMeTool
 ## Usage
 
 ### Command
-- `copy_experiment <exp_no>`: Copy the content of a variable to the clipboard.
+- `helpme copy_experiment <exp_no>`: Copy the content of a variable to the clipboard.
 
 ### Examples
 

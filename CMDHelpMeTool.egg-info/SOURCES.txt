@@ -1,4 +1,5 @@
 LICENSE
+README.md
 setup.py
 CMDHelpMeTool/__init__.py
 CMDHelpMeTool/cmd_tool.py
