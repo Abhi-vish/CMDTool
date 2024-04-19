@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+CMDHelpMeTool/__init__.py
+CMDHelpMeTool/cmd_tool.py
+CMDHelpMeTool.egg-info/PKG-INFO
+CMDHelpMeTool.egg-info/SOURCES.txt
+CMDHelpMeTool.egg-info/dependency_links.txt
+CMDHelpMeTool.egg-info/entry_points.txt
+CMDHelpMeTool.egg-info/requires.txt
+CMDHelpMeTool.egg-info/top_level.txt

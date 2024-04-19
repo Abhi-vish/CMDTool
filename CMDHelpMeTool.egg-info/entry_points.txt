@@ -1,0 +1,3 @@
+[console_scripts]
+helpme = CMDHelpMeTool.cmd_tool:main
+
