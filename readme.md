@@ -8,7 +8,7 @@ You can install CMDHelpMeTool via pip:
 
 ```bash
 pip install CMDHelpMeTool
-
+```
 ## Usage
 
 ### Command
@@ -20,7 +20,7 @@ pip install CMDHelpMeTool
 
   ```bash
   helpme copy_experiment exp_1
-
+  ```
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
