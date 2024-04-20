@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='CMDHelpMeTool',
-    version='0.3.5',
+    version='0.3.6',
     packages=find_packages(),
     entry_points={
         'console_scripts': [

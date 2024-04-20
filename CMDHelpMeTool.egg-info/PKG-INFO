@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: CMDHelpMeTool
-Version: 0.3.5
+Version: 0.3.6
 Summary: A command-line tool for file management and copying to clipboard.
 Home-page: UNKNOWN
 Author: Abhi-vish
@@ -25,7 +25,7 @@ pip install CMDHelpMeTool
 ## Usage
 
 ### Command
-- `copy_experiment <exp_no>`: Copy the content of a variable to the clipboard.
+- `helpme copy_experiment <exp_no>`: Copy the content of a variable to the clipboard.
 
 ### Examples
 

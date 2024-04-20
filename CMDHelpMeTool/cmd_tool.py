@@ -3,8 +3,12 @@ import pyperclip
 from .experiments import *  # Import all variables from experiments.py
 
 def copy_variable_to_clipboard(variable):
-    pyperclip.copy(variable)
-    print("File content copied to clipboard.")
+    try:
+        pyperclip.copy(variable)
+        print("File content copied to clipboard.")
+    except pyperclip.PyperclipException:
+        print("Failed to copy to clipboard.")
+        print(variable)
 
 def main():
     parser = argparse.ArgumentParser(description='Command-line tool for copying variable content to clipboard.')
